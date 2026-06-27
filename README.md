@@ -10,6 +10,7 @@ The current project is intended for Android use (such as Android Studio), but ca
 
 To run the project, please open two command prompt at root ctt, the first one:
 cd backend
+npm install
 npm start
 
 The second one:
